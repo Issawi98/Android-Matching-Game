@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Matching Game</string>
+    <string name="intro">MEMORY GAME!!</string>
+    <string name="newGame">New Game</string>
+    <string name="showHigh">High Score</string>
+    <string name="exit">Exit Game</string>
+
+    <string name="highScore">The Highest Score until now is....</string>
+    <string name="backBtn">Back</string>
+
+    <string name="topTxt">Hurry Up!</string>
+    <string name="time">...</string>
+
+    <string name="congrats">CONGRATULATIONS</string>
+    <string name="msg">You scored </string>
+    <string name="ifHighScore">HIGH SCORE!!</string>
+    <string name="restart">Restart</string>
+
+</resources>
